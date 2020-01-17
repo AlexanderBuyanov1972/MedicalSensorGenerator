@@ -1,0 +1,52 @@
+{"properties": [
+  {
+    "name": "min_id",
+    "type": "java.lang.String",
+    "description": "A description for 'min_id'"
+  },
+  {
+    "name": "max_id",
+    "type": "java.lang.String",
+    "description": "A description for 'max_id'"
+  },
+  {
+    "name": "min_dataUBP",
+    "type": "java.lang.String",
+    "description": "A description for 'min_dataUBP'"
+  },
+  {
+    "name": "max_dataUBP",
+    "type": "java.lang.String",
+    "description": "A description for 'max_dataUBP'"
+  },
+  {
+    "name": "min_dataUBP",
+    "type": "java.lang.String",
+    "description": "A description for 'min_dataUBP'"
+  },
+  {
+    "name": "timeout",
+    "type": "java.lang.String",
+    "description": "A description for 'timeout'"
+  },
+  {
+    "name": "minid",
+    "type": "java.lang.String",
+    "description": "A description for 'minid'"
+  },
+  {
+    "name": "maxid",
+    "type": "java.lang.String",
+    "description": "A description for 'maxid'"
+  },
+  {
+    "name": "maxdataUBP",
+    "type": "java.lang.String",
+    "description": "A description for 'maxdataUBP'"
+  },
+  {
+    "name": "mindataUBP",
+    "type": "java.lang.String",
+    "description": "A description for 'mindataUBP'"
+  }
+]}
